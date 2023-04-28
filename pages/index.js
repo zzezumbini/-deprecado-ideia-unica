@@ -1,12 +1,7 @@
 import React from "react";
-import GrayScaleNavbar from "../components/GrayScaleNavbar";
 
 function Home() {
-    return (
-        <div>
-            <GrayScaleNavbar />
-        </div>
-    );
+    return <div><h1>!HML! Home</h1></div>
 }
 
 // novo padrão de módulos do javascript
